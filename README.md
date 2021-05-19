@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **i hate.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ihatetomlrge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ihatetomlrge" height="30" width="40" /></a>
 </p>
