@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">Me. IHateTomlrge</h3>
 
-- 💎 I’m currently working on **Ruby AIO | Paname io | Atom Solutions**
-
-- 💷 Plugged with [Téo](https://github.com/Tixwell)
+- 💎 I’m currently working on **Ruby AIO | Cactus AIO**
 
 - 📫 How to reach me **ihatetomlrge@ruby-aio.com**
 
