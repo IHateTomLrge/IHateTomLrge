@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">Me. IHateTomlrge</h3>
 
-- 💎 I’m currently working on **Ruby AIO | Cactus AIO**
-
-- 📫 How to reach me **ihatetomlrge@ruby-aio.com**
-
 - ⚡ Fun fact **i hate.**
 
 <h3 align="left">Languages and Tools:</h3>
